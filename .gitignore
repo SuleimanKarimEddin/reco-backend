@@ -1,0 +1,8 @@
+./vendor
+vendor
+
+.env
+composer.lock
+
+
+public/images
